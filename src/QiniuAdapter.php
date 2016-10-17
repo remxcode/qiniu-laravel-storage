@@ -214,7 +214,7 @@ class QiniuAdapter extends AbstractAdapter
     }
 
     /**
-     * fetch a file.
+     * Fetch a file.
      *
      * @param string $url
      * @param string $key
