@@ -234,6 +234,7 @@ class QiniuAdapter extends AbstractAdapter
             return true;
         }
     }
+    
     /**
      * Delete a directory.
      *
